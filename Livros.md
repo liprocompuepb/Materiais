@@ -17,3 +17,5 @@
 - ## 6. Livro Programação Competitiva I do Steven Halim [acesse aqui o livro.](https://drive.google.com/file/d/1HnQhb4clB-2tRfW7GgAZ7vQ7gACzP646/view?usp=sharing)
 
 - ## 7. Livro Programação Competitiva III do Steven Halim [acesse aqui o livro.](https://drive.google.com/file/d/12GrGRZaO76eqqBApbG2DGKBCLnH45LBr/view?usp=sharing)
+- ## 8. Livro Programação Competitiva IV do Steven Halim pt.1 [acesse aqui o livro.](https://drive.google.com/file/d/1L0Rs7ATHBgXiLpiPk4vVUttGR_cdG5sU/view?usp=sharing)
+- ## 9. Livro Programação Competitiva IV do Steven Halim pt.2 [acesse aqui o livro.](https://drive.google.com/file/d/128M1ibtVo2BvgXu8a4J24CXfj2NJz0pS/view?usp=share_link)
